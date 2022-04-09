@@ -10,8 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b03e66a72cc22043b0137606b9bab6a, type: 3}
-  m_Name: Room 2
+  m_Name: A9. I can't see you
   m_EditorClassIdentifier: 
-  storyText: Okay this looks like room 2
+  storyText: "A9. I can't see you\r\n\"Sir? Sir, if I may?\" \r\n\r\nIgnore it. If
+    you can't see them, they don't exist. *click, creeaak, SLAM*\r\n\r\n1. Continue.
+    . ."
   nextStates:
-  - {fileID: 11400000, guid: 863d1842b1934c949bab02adfa456357, type: 2}
+  - {fileID: 11400000, guid: 2b329db4c03f24448a4571f2aee39bdf, type: 2}

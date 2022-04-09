@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b03e66a72cc22043b0137606b9bab6a, type: 3}
+  m_Name: A7. Ennui, thy name is Life
+  m_EditorClassIdentifier: 
+  storyText: 'A7. Ennui, thy name is Life
+
+    Despite how boring this job is, I
+    guess I can''t ruin my good work ethic now. If it''s majorly important, they''ll
+    try calling again.
+
+    
+
+    *RIIIIIIIIIIING, click* Guess it wasn''t all
+    that important. Probably a telemarketer, they''ve been growing bolder these past
+    few months.
+
+    
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: 37ffad6e6181fa94382e30b3a63478d2, type: 2}
