@@ -36,7 +36,7 @@ public class AdventureGame : MonoBehaviour
         {
             state = nextStates[1];
         }
-        else if (Input.GetKeyDown(KeyCode.Alpha3))
+        else if (Input.GetKeyDown(KeyCode.Q))
         {
             state = startingState;
         }

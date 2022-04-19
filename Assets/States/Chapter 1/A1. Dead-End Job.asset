@@ -20,6 +20,6 @@ MonoBehaviour:
     who it could be?
 
 
-    2. Ignore, Let it ring.'
+    1. Ignore, Let it ring.'
   nextStates:
   - {fileID: 11400000, guid: 283bfb02018745443b4442f6ee67f197, type: 2}

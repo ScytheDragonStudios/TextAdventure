@@ -19,17 +19,13 @@ MonoBehaviour:
     standing in front of my apartment? (A tall man(?) in a large overcoat and bowler
     hat, carrying a silver breifcase)
 
-    
+
 
     What do you want to do?
 
-    
 
-    1.
 
-    2.
-    Approach and try to ignore
-
-    3. '
+    1.  Approach
+    and try to ignore'
   nextStates:
   - {fileID: 11400000, guid: 2836211326ea56a4eb24a03ee408e0bc, type: 2}
